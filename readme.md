@@ -9,6 +9,7 @@ LICENSE: [MIT](./license.md)
 
 ## **Содержание:**
 
+## [Что Такое GIT](./information.md)
 
 + ## [git config](./config.md)
 
