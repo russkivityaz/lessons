@@ -8,4 +8,8 @@
 git add temp.txt
 ```
 
+*[ИСТОЧНИК][1]*
+
+[1]:https://www.hostinger.ru/rukovodstva/osnovnie-git-komandy
+
 [| назад |](./init.md) [ содержание |](./readme.md) [вперед |](./clone.md)

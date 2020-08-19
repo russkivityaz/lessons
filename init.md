@@ -8,4 +8,8 @@
 git init
 ```
 
+*[ИСТОЧНИК][1]*
+
+[1]:https://www.hostinger.ru/rukovodstva/osnovnie-git-komandy
+
 [| назад |](./config.md) [ содержание |](./readme.md) [вперед |](./add.md) 

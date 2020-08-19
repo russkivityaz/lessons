@@ -11,5 +11,8 @@ command git checkout -b <имя-ветки>
 ``` bash-
 git checkout <имя-ветки>
 ```
+*[ИСТОЧНИК][1]*
+
+[1]:https://www.hostinger.ru/rukovodstva/osnovnie-git-komandy
 
 [| назад |](./push.md) [ содержание |](./readme.md) [вперед |](./remote.md)

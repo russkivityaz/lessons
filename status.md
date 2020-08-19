@@ -6,4 +6,8 @@
 git status
 ```
 
+*[ИСТОЧНИК][1]*
+
+[1]:https://www.hostinger.ru/rukovodstva/osnovnie-git-komandy
+
 [| назад |](./commit.md) [ содержание |](./readme.md) [вперед |](./push.md)

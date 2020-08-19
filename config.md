@@ -5,5 +5,8 @@
 ``` bash-
 git config --global user.email адрес@gmail.com
 ```
+*[ИСТОЧНИК][1]*
+
+[1]:https://www.hostinger.ru/rukovodstva/osnovnie-git-komandy
 
 [| назад |](./information.md) [ содержание |](./readme.md) [вперед |](./init.md) 

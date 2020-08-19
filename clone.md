@@ -12,4 +12,8 @@ git clone имя.пользователя@хост:/путь/до/репозит
 git clone /путь/до/репозитория
 ```
 
+*[ИСТОЧНИК][1]*
+
+[1]:https://www.hostinger.ru/rukovodstva/osnovnie-git-komandy
+
 [| назад |](./add.md) [ содержание |](./readme.md) [вперед |](./commit.md)

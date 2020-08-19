@@ -5,7 +5,7 @@
 
 ---
 
-[ИСТОЧНИК][1]
+*[ИСТОЧНИК][1]*
 
 [1]:https://www.hostinger.ru/rukovodstva/osnovi-git-chto-takoe-git?_ga=2.139894324.647078380.1597777596-1516684565.1597777596
 

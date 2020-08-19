@@ -12,4 +12,8 @@ git remote –v
 git remote add origin <адрес.удаленного.сервера>
 ```
 
+*[ИСТОЧНИК][1]*
+
+[1]:https://www.hostinger.ru/rukovodstva/osnovnie-git-komandy
+
 [| назад |](./checkout.md) [ содержание |](./readme.md) [вперед |](./branch.md)

@@ -6,4 +6,8 @@
 git push origin master
 ```
 
+*[ИСТОЧНИК][1]*
+
+[1]:https://www.hostinger.ru/rukovodstva/osnovnie-git-komandy
+
 [| назад |](./status.md) [ содержание |](./readme.md) [вперед |](./checkout.md)

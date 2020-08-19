@@ -11,5 +11,8 @@ git branch
 ``` bash-
 git branch –d <имя-ветки>
 ```
+*[ИСТОЧНИК][1]*
+
+[1]:https://www.hostinger.ru/rukovodstva/osnovnie-git-komandy
 
 [| назад |](./remote.md) [ содержание |](./readme.md)
